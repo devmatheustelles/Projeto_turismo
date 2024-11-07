@@ -1,0 +1,147 @@
+* {
+    margin: 0;
+}
+
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
+main {
+    padding: 50px;
+}
+
+div main section h4 {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 4px;
+    /* border: solid; */
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 40px;
+    /* border: solid; */
+}
+
+img {
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+/* #Busan {
+    box-sizing: border-box;
+    width: 800px;
+    padding: 24px;
+    margin: 48px auto 28px;
+    border: solid;
+} */
+
+#italico {
+    font-size: 16px;
+    font-weight: lighter;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+#destinos h4 {
+    margin-top: 64px;
+    margin-bottom: 2px;
+}
+
+h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+#destinos p {
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 64px;
+}
+
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 6px;
+    margin-left: 8px;
+}
+
+#templo-haedong-yonggunsa p {
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 24px;
+}
+
+#azul {
+    color: #0C51A7;
+    font-weight: bold;
+    font-size: 14px;
+    padding-bottom: 48px;
+}
+
+#templo-beomeo-sa p {
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 24px;
+}
+
+h5 {
+    font-size: 16px;
+    /* border: solid; */
+}
+
+#parque-yongdusan p {
+    font-size: 16px;
+    font-weight: 100;
+    margin-bottom: 24px;
+}
+
+#roxo {
+    color: #591B98;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#rosa {
+    color: #E5245E;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#laranja {
+    color: #E95E10;
+    font-weight: 700;
+    font-size: 14px;
+    padding-bottom: 40px;
+}
+
+#final {
+    padding-top: 40px;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 100;
+}
+
+footer {
+    color: #333333;
+    text-align: center;
+    /* padding-bottom: 48px; */
+    font-size: 12px;
+}
+
+footer {
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+    width: 12px;
+    /* border: solid; */
+    padding: 25px 4px 0px 4px;
+
+}
