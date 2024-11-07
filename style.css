@@ -16,28 +16,18 @@ div main section h4 {
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 4px;
-    /* border: solid; */
 }
 
 h1 {
     font-size: 36px;
     font-weight: bold;
     margin-bottom: 40px;
-    /* border: solid; */
 }
 
 img {
     width: 100%;
     margin-bottom: 24px;
 }
-
-/* #Busan {
-    box-sizing: border-box;
-    width: 800px;
-    padding: 24px;
-    margin: 48px auto 28px;
-    border: solid;
-} */
 
 #italico {
     font-size: 16px;
@@ -91,7 +81,6 @@ h3 {
 
 h5 {
     font-size: 16px;
-    /* border: solid; */
 }
 
 #parque-yongdusan p {
@@ -129,7 +118,6 @@ h5 {
 footer {
     color: #333333;
     text-align: center;
-    /* padding-bottom: 48px; */
     font-size: 12px;
 }
 
@@ -141,7 +129,6 @@ footer {
 footer img {
     vertical-align: middle;
     width: 12px;
-    /* border: solid; */
     padding: 25px 4px 0px 4px;
 
 }
